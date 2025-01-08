@@ -82,7 +82,4 @@ Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
 ## Agradecimientos
 
 - **Kaggle** por proporcionar un entorno óptimo para el desarrollo de este proyecto.
-- [Otros recursos utilizados o mencionados].
-
-Para más información, no dudes en abrir un issue o contactar al autor del repositorio.
 
